@@ -1,8 +1,8 @@
-# Hi, I'm Daiane :)
+Hi, I'm Daiane 👋
 
 ### Project Management | Business Analysis | Data Analytics
 
-I'm an international Project Management professional with experience working on B2B projects across Portugal, Spain, Estonia and the United States.
+I'm an Project Management professional with experience working on B2B projects across Portugal, Spain, Estonia and the United States.
 
 I enjoy bringing structure to ideas, connecting people and helping teams move projects forward with clarity.
 
