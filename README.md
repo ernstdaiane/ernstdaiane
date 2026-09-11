@@ -1,4 +1,4 @@
-# Hi, I'm Daiane 👋
+# Hi, I'm Daiane :)
 
 ### Project Management | Business Analysis | Data Analytics
 
@@ -27,6 +27,7 @@ I'm particularly interested in the intersection of **people, projects and data**
 ## Featured Projects
 
 ### Telecom Operator Performance Analysis
+
 Analysis of operator performance using business KPIs to identify high-priority cases, operational challenges and opportunities for improvement.
 
 **Skills:** Python · pandas · KPI Analysis · Data Visualization · Business Analysis
@@ -34,6 +35,7 @@ Analysis of operator performance using business KPIs to identify high-priority c
 ---
 
 ### A/B Testing — Recommendation System
+
 Evaluation of an A/B experiment focused on user behaviour and conversion performance, using statistical testing to support a business recommendation.
 
 **Skills:** Python · Statistical Analysis · A/B Testing · Business Decision-Making
@@ -41,23 +43,26 @@ Evaluation of an A/B experiment focused on user behaviour and conversion perform
 ---
 
 ### Vehicle Sales Analytics App
+
 Interactive web application developed with Streamlit to explore vehicle sales data and understand relationships between mileage, price and other characteristics.
 
 **Skills:** Python · pandas · Plotly · Streamlit · Exploratory Data Analysis
 
 ---
 
-### YouTube Trends Dashboard
-Interactive Tableau dashboard created to explore trending video behaviour across countries, channels and content.
+### Model Fitness — Customer Churn & Retention Analysis
 
-**Skills:** Tableau · Data Visualization · Dashboard Design · Business Intelligence
+Customer retention analysis combining predictive modelling and customer segmentation to identify churn risk, understand behavioural patterns and support targeted retention strategies.
+
+**Skills:** Python · pandas · Machine Learning · Logistic Regression · Customer Segmentation · Business Analysis
 
 ---
 
-### Zuber — SQL Business Analysis
-Analysis of taxi trip data to understand company performance, destination patterns and the impact of external factors on ride behaviour.
+### Book Service — SQL Business Analysis
 
-**Skills:** SQL · Python · Statistical Analysis · Data Visualization
+SQL analysis of a digital book service exploring catalogue trends, reader ratings, reviews, publishers, authors and customer engagement.
+
+**Skills:** SQL · PostgreSQL · JOINs · CTEs · Aggregation · Business Analysis
 
 ---
 
