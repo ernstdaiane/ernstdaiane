@@ -26,7 +26,7 @@ I'm particularly interested in the intersection of **people, projects and data**
 
 ## Featured Projects
 
-### 📞 Telecom Operator Performance Analysis
+### Telecom Operator Performance Analysis
 Analysis of operator performance using business KPIs to identify high-priority cases, operational challenges and opportunities for improvement.
 
 **Skills:** Python · pandas · KPI Analysis · Data Visualization · Business Analysis
