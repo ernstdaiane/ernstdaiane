@@ -26,7 +26,7 @@ I'm particularly interested in the intersection of **people, projects and data**
 
 ## Featured Projects
 
-### Telecom Operator Performance Analysis
+### [Telecom Operator Performance Analysis](https://github.com/ernstdaiane/telecom-operator-performance-analysis)
 
 Analysis of operator performance using business KPIs to identify high-priority cases, operational challenges and opportunities for improvement.
 
@@ -34,7 +34,7 @@ Analysis of operator performance using business KPIs to identify high-priority c
 
 ---
 
-### A/B Testing — Recommendation System
+### [A/B Testing — Recommendation System](https://github.com/ernstdaiane/ab-testing-recommendation-system)
 
 Evaluation of an A/B experiment focused on user behaviour and conversion performance, using statistical testing to support a business recommendation.
 
@@ -42,7 +42,7 @@ Evaluation of an A/B experiment focused on user behaviour and conversion perform
 
 ---
 
-### Vehicle Sales Analytics App
+### [Vehicle Sales Analytics App](https://github.com/ernstdaiane/vehicle-sales-app)
 
 Interactive web application developed with Streamlit to explore vehicle sales data and understand relationships between mileage, price and other characteristics.
 
@@ -50,7 +50,7 @@ Interactive web application developed with Streamlit to explore vehicle sales da
 
 ---
 
-### Model Fitness — Customer Churn & Retention Analysis
+### [Model Fitness — Customer Churn & Retention Analysis](https://github.com/ernstdaiane/model-fitness-churn-analysis)
 
 Customer retention analysis combining predictive modelling and customer segmentation to identify churn risk, understand behavioural patterns and support targeted retention strategies.
 
@@ -58,7 +58,7 @@ Customer retention analysis combining predictive modelling and customer segmenta
 
 ---
 
-### Book Service — SQL Business Analysis
+### [Book Service — SQL Business Analysis](https://github.com/ernstdaiane/book-service-sql-analysis)
 
 SQL analysis of a digital book service exploring catalogue trends, reader ratings, reviews, publishers, authors and customer engagement.
 
