@@ -12,7 +12,7 @@ I'm particularly interested in the intersection of **people, projects and data**
 
 ---
 
-## 🔎 What I work with
+## What I work with
 
 **Data Analysis:** Python · SQL · pandas · Statistical Analysis · A/B Testing
 
@@ -24,7 +24,7 @@ I'm particularly interested in the intersection of **people, projects and data**
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 📞 Telecom Operator Performance Analysis
 Analysis of operator performance using business KPIs to identify high-priority cases, operational challenges and opportunities for improvement.
@@ -33,35 +33,35 @@ Analysis of operator performance using business KPIs to identify high-priority c
 
 ---
 
-### 🧪 A/B Testing — Recommendation System
+### A/B Testing — Recommendation System
 Evaluation of an A/B experiment focused on user behaviour and conversion performance, using statistical testing to support a business recommendation.
 
 **Skills:** Python · Statistical Analysis · A/B Testing · Business Decision-Making
 
 ---
 
-### 🚗 Vehicle Sales Analytics App
+### Vehicle Sales Analytics App
 Interactive web application developed with Streamlit to explore vehicle sales data and understand relationships between mileage, price and other characteristics.
 
 **Skills:** Python · pandas · Plotly · Streamlit · Exploratory Data Analysis
 
 ---
 
-### 📺 YouTube Trends Dashboard
+### YouTube Trends Dashboard
 Interactive Tableau dashboard created to explore trending video behaviour across countries, channels and content.
 
 **Skills:** Tableau · Data Visualization · Dashboard Design · Business Intelligence
 
 ---
 
-### 🚕 Zuber — SQL Business Analysis
+### Zuber — SQL Business Analysis
 Analysis of taxi trip data to understand company performance, destination patterns and the impact of external factors on ride behaviour.
 
 **Skills:** SQL · Python · Statistical Analysis · Data Visualization
 
 ---
 
-## 🌱 A little more about me
+## A little more about me
 
 Before expanding into data, I built my career managing international projects and working closely with clients, teams and stakeholders from different countries.
 
